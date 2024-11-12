@@ -1,0 +1,22 @@
+<title>Indispensable mockup</title>
+<meta name="author" value="Bitter-Coffee Studio" />
+<style>
+body, html {
+	margin: 0;
+	padding: 0;
+	}
+	
+body {
+	text-align: center;
+	}
+
+#container { 
+	margin: 0 auto;
+	width: 897px;
+	text-align: left;
+	}
+
+</style>
+<div id="container">
+	<img src="TryMasak_Frontpage.png" />
+</div>
